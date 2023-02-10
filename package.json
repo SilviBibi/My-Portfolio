@@ -1,0 +1,26 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilviBibi/My-Portfolio.git"
+  },
+  "author": "Silvia Falcon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilviBibi/My-Portfolio/issues"
+  },
+  "homepage": "https://github.com/SilviBibi/My-Portfolio#readme",
+  "dependencies": {
+    "jquery": "^3.6.3",
+    "typed.js": "^2.0.12",
+    "vanilla-tilt": "^1.8.0",
+    "vite": "^4.1.1"
+  }
+}
